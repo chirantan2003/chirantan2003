@@ -29,19 +29,20 @@ I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/me
 
 ### :hammer_and_wrench: Learning and working with :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="./icon/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="./icon/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="./icon/next.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
+  <img src="./icon/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="./icon/html.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="./icon/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="./icon/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="./icon/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="./icon/cpp.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="./icon/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="./icon/github.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="./icon/git.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
