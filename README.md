@@ -20,31 +20,31 @@ I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/me
 
 - 📘 I'm a Second year student at Vellore Institute of Technology(VIT), Vellore.
 
-- :seedling: Exploring Machine Learning.
+- 🌱 Exploring Machine Learning.
 
-- :zap: In my free time, <s> I code the whole day </s> I listen to music and play games.
+- 🎧 In my free time, I <s> code the whole day </s> &nbsp; listen to music and play games.
 
-- :books: Have some novel suggestions? Ping me up!
+- 📖 Have some novel suggestions? Ping me up!
 <br></br>
 
 ---
 
 ### :hammer_and_wrench: Learning and working with :
 <div>
-  <img src="./icon/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="./icon/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="./icon/next.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
-  <img src="./icon/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="./icon/numpy.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="./icon/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="./icon/html.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="./icon/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="./icon/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="./icon/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="./icon/cpp.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="./icon/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="./icon/github.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="./icon/git.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <a href="https://www.java.com/en/" title="Java"><img src="./icon/java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="./icon/python.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href="https://nextjs.org/" title="Nextjs"><img src="./icon/next.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/></a>&nbsp;
+  <a href="https://reactjs.org/" title="Reactjs"><img src="./icon/react.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
+  <a href="https://numpy.org/" title="Numpy"><img src="./icon/numpy.svg" title="Numpy" alt="Numpy" width="40" height="40"/></a>&nbsp;
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="./icon/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Html"><img src="./icon/html.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Css"><img src="./icon/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.javascript.com/" title="Js"><img src="./icon/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.tutorialspoint.com/cprogramming/index.htm" title="C"><img src="./icon/c.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
+  <a href="https://cplusplus.com/doc/tutorial/" title="Cpp"><img src="./icon/cpp.svg" title="Cpp" alt="Cpp" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.mysql.com/" title="Mysql"><img src="./icon/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com/" title="Github"><img src="./icon/github.svg" title="Github" alt="Github" width="40" height="40"/></a>&nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="./icon/git.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </div>
 
 ---
