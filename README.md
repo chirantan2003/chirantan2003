@@ -1,16 +1,18 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/8kERJ466SJRKpaUf5S/giphy.gif" width="100"/>
+  <a href="https://www.linkedin.com/in/chirantan-jain-703166219/" target="_blank">
+    <img src="https://media.giphy.com/media/8kERJ466SJRKpaUf5S/giphy.gif" width="100"/>
+  </a>
   <br></br>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/chirantan-jain-703166219/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <a href="https://www.linkedin.com/in/chirantan-jain-703166219/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
   </div>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
-  &ltHello, World!&gt I`m Chirantan!
-  <img src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" height="70px"/>
-</h1>
+    &ltHello, World!&gt I`m Chirantan!
+    <img src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" height="70px"/>
+  </h1>
 </div>
 
 ---
