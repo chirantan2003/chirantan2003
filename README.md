@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
-    &ltHello, World!&gt I`m Chirantan!
+    &ltHello, World!/&gt I`m Chirantan!
     <img src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" height="70px"/>
   </h1>
 </div>
