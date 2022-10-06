@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/chirantan-jain-703166219/" target="_blank">
+  <a href="https://www.linkedin.com/in/jainchirantan/" target="_blank">
     <img src="https://media.giphy.com/media/8kERJ466SJRKpaUf5S/giphy.gif" width="100"/>
   </a>
   <br></br>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/chirantan-jain-703166219/" target="_blank">
+    <a href="https://www.linkedin.com/in/jainchirantan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -63,7 +63,7 @@ I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/me
   <a href="https://www.github.com/chirantan2003" target="_blank">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/chirantan-jain-703166219/" target="_blank">
+  <a href="https://www.linkedin.com/in/jainchirantan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/chirantan_jain" target="_blank">
