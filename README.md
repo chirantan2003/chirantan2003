@@ -18,9 +18,10 @@
 ---
 
 ### <img src="https://media.giphy.com/media/l4FGtP1BqMzxz8Gbu/giphy.gif" height="40px"/> Few things About Me :
-I am a ML Developer with experience in Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a ML Developer with experience in Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. <br></br>
+I have leveraged Feature Engineering, Regression, Few-Shot Learning and Deep Learning across my projects and researches.
 
-- 📘 I'm a Third year student at Vellore Institute of Technology(VIT), Vellore.
+- 📘 I'm a Final year student at Vellore Institute of Technology(VIT), Vellore.
 
 - 🎧 In my free time, I <s> code the whole day </s> &nbsp; listen to music and play games.
 
