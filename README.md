@@ -18,10 +18,10 @@
 ---
 
 ### <img src="https://media.giphy.com/media/l4FGtP1BqMzxz8Gbu/giphy.gif" height="40px"/> Few things About Me :
-I am a ML Developer with experience in Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. <br></br>
-I have leveraged Feature Engineering, Regression, Few-Shot Learning and Deep Learning across my projects and researches.
+I am an ML Engineer with experience in Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br></br>
+I have leveraged Generative AI, Feature Engineering, Few-Shot Learning, Deep Learning, and automated workflows across my projects and researches.
 
-- 📘 I'm a Final year student at Vellore Institute of Technology(VIT), Vellore.
+- 📘 I'm a first year MSCS student at New York University.
 
 - 🎧 In my free time, I <s> code the whole day </s> &nbsp; listen to music and play games.
 
@@ -53,8 +53,6 @@ I have leveraged Feature Engineering, Regression, Few-Shot Learning and Deep Lea
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chirantan2003&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirantan2003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
