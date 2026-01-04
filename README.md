@@ -13,7 +13,7 @@
     &lt;Hello, World!/&gt; I'm Chirantan!
     <img src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" height="70px"/>
   </h1>
-  <h3> MSCS @ NYU | Deep Learning for a cause</h3>
+  <h3> MSCS @ NYU | Deep Learning for Societal Transformation</h3>
 </div>
 
 ---
