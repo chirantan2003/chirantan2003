@@ -8,36 +8,34 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=chirantan2003&style=flat-square&color=blue" alt=""/>
   <h1>
-    &ltHello, World!/&gt I`m Chirantan!
+    &lt;Hello, World!/&gt; I'm Chirantan!
     <img src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" height="70px"/>
   </h1>
+  <h3> MSCS @ NYU | Deep Learning for a cause</h3>
 </div>
 
 ---
+### <img src="https://media.giphy.com/media/l4FGtP1BqMzxz8Gbu/giphy.gif" height="40px"/> About Me
 
-### <img src="https://media.giphy.com/media/l4FGtP1BqMzxz8Gbu/giphy.gif" height="40px"/> Few things About Me :
-I am an ML Engineer with experience in Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br></br>
-I have leveraged Generative AI, Feature Engineering, Few-Shot Learning, Deep Learning, and automated workflows across my projects and researches.
+I am a **Machine Learning Engineer** and Graduate Student with a passion for solving complex problems using Deep Learning. 
 
-- 📘 I'm a first year MSCS student at New York University.
+Previously, I worked as a **Founding Engineer at HealthSutra Analytics** and conducted research at **IIIT Delhi**. Currently, I am focused on leveraging Computer Vision, GraphRAG, and Deep Learning to reduce medical misdiagnoses and automate complex workflows.
 
-- 🎧 In my free time, I <s> code the whole day </s> &nbsp; listen to music and play games.
-
-- 📖 Have some novel suggestions? Ping me up!
-<br></br>
-
+- 🎓 I am currently pursuing my **MS in Computer Science** at the **New York University**.
+- 📄 **Research:** Co-authored "Leveraging Few-Shot Learning in Generative AI for UPI Transaction Classification" (IEEE GCAT).
+- 🎧 In my free time, I listen to music and explore small food restaurants.
 ---
 
 ### :hammer_and_wrench: Learning and working with :
 <div>
-  <a href="https://www.java.com/en/" title="Java"><img src="./icon/java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org/" title="Python"><img src="./icon/python.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.tensorflow.org/" title="Tensorflow"><img src="./icon/tensorflow.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/></a>&nbsp;
+  <a href="https://jupyter.org/" title="Jupyter"><img src="./icon/jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.java.com/en/" title="Java"><img src="./icon/java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="https://nextjs.org/" title="Nextjs"><img src="./icon/next.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/></a>&nbsp;
   <a href="https://reactjs.org/" title="Reactjs"><img src="./icon/react.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
-  <a href="https://jupyter.org/" title="Jupyter"><img src="./icon/jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.tensorflow.org/" title="Tensorflow"><img src="./icon/tensorflow.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/></a>&nbsp;
   <a href="https://numpy.org/" title="Numpy"><img src="./icon/numpy.svg" title="Numpy" alt="Numpy" width="40" height="40"/></a>&nbsp;
   <a href="https://pandas.pydata.org/" title="Pandas"><img src="./icon/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Html"><img src="./icon/html.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
@@ -49,12 +47,6 @@ I have leveraged Generative AI, Feature Engineering, Few-Shot Learning, Deep Lea
   <a href="https://github.com/" title="Github"><img src="./icon/github.svg" title="Github" alt="Github" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com/" title="Git"><img src="./icon/git.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </div>
-
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirantan2003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"><i>Love to Connect with people so feel free to text me on any of the following! </i></h3>
 <div id="badges" align="center" t>
