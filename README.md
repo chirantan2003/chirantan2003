@@ -24,7 +24,7 @@ I am a **Machine Learning Engineer** and Graduate Student with a passion for sol
 Previously, I worked as a **Founding Engineer at HealthSutra Analytics** and conducted research at **IIIT Delhi**. Currently, I am focused on leveraging Computer Vision, GraphRAG, and Deep Learning to reduce medical misdiagnoses and automate complex workflows.
 
 - 🎓 I am currently pursuing my **MS in Computer Science** at the **New York University**.
-- 📄 **Research:** "Leveraging Few-Shot Learning in Generative AI for UPI Transaction Classification" (IEEE GCAT).
+- 📄 **Research:** "Leveraging Few-Shot Learning in Generative AI for UPI Transaction Classification" <a href="https://ieeexplore.ieee.org/abstract/document/10923925" target="_blank"> (IEEE GCAT) </a>.
 - 🎧 In my free time, I listen to music and explore small food restaurants.
 ---
 
